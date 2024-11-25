@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\Csharpbascs\Switch Statements in C#\bin\Debug\Switch Statements in C#.exe.config
+C:\Users\admin\Desktop\Csharpbascs\Switch Statements in C#\bin\Debug\Switch Statements in C#.exe
+C:\Users\admin\Desktop\Csharpbascs\Switch Statements in C#\bin\Debug\Switch Statements in C#.pdb
+C:\Users\admin\Desktop\Csharpbascs\Switch Statements in C#\obj\Debug\Switch Statements in C#.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Csharpbascs\Switch Statements in C#\obj\Debug\Switch Statements in C#.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Csharpbascs\Switch Statements in C#\obj\Debug\Switch Statements in C#.exe
+C:\Users\admin\Desktop\Csharpbascs\Switch Statements in C#\obj\Debug\Switch Statements in C#.pdb
