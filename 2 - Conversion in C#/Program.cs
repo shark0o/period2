@@ -12,13 +12,18 @@ namespace _2___Conversion_in_C_
         {
             string numberAsText = "1a2c3";
             int numberAsIntger = 231;
-            int.Parse(numberAsText);
+
+            
+            //int numberAsIntger2
 
             Console.WriteLine(numberAsText);
             Console.WriteLine(numberAsIntger);
 
+            Console.ReadLine();
+
 
             
         }
+        
     }
 }

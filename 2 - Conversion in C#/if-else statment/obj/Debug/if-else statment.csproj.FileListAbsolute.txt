@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\Csharpbascs\if-else statment\obj\Debug\if-else statment.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Csharpbascs\if-else statment\obj\Debug\if-else statment.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Csharpbascs\if-else statment\bin\Debug\if-else statment.exe.config
+C:\Users\admin\Desktop\Csharpbascs\if-else statment\bin\Debug\if-else statment.exe
+C:\Users\admin\Desktop\Csharpbascs\if-else statment\bin\Debug\if-else statment.pdb
+C:\Users\admin\Desktop\Csharpbascs\if-else statment\obj\Debug\if-else statment.exe
+C:\Users\admin\Desktop\Csharpbascs\if-else statment\obj\Debug\if-else statment.pdb
