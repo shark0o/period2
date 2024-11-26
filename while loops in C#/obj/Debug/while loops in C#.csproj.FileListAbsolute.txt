@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\Csharpbascs\while loops in C#\bin\Debug\while loops in C#.exe.config
+C:\Users\admin\Desktop\Csharpbascs\while loops in C#\bin\Debug\while loops in C#.exe
+C:\Users\admin\Desktop\Csharpbascs\while loops in C#\bin\Debug\while loops in C#.pdb
+C:\Users\admin\Desktop\Csharpbascs\while loops in C#\obj\Debug\while loops in C#.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Csharpbascs\while loops in C#\obj\Debug\while loops in C#.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Csharpbascs\while loops in C#\obj\Debug\while loops in C#.exe
+C:\Users\admin\Desktop\Csharpbascs\while loops in C#\obj\Debug\while loops in C#.pdb
