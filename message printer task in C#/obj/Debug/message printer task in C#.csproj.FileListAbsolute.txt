@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\Csharpbascs\message printer task in C#\bin\Debug\message printer task in C#.exe.config
+C:\Users\admin\Desktop\Csharpbascs\message printer task in C#\bin\Debug\message printer task in C#.exe
+C:\Users\admin\Desktop\Csharpbascs\message printer task in C#\bin\Debug\message printer task in C#.pdb
+C:\Users\admin\Desktop\Csharpbascs\message printer task in C#\obj\Debug\message printer task in C#.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Csharpbascs\message printer task in C#\obj\Debug\message printer task in C#.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Csharpbascs\message printer task in C#\obj\Debug\message printer task in C#.exe
+C:\Users\admin\Desktop\Csharpbascs\message printer task in C#\obj\Debug\message printer task in C#.pdb
