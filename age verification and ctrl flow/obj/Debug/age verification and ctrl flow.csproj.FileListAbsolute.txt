@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\Csharpbascs\age verification and ctrl flow\bin\Debug\age verification and ctrl flow.exe.config
+C:\Users\admin\Desktop\Csharpbascs\age verification and ctrl flow\bin\Debug\age verification and ctrl flow.exe
+C:\Users\admin\Desktop\Csharpbascs\age verification and ctrl flow\bin\Debug\age verification and ctrl flow.pdb
+C:\Users\admin\Desktop\Csharpbascs\age verification and ctrl flow\obj\Debug\age verification and ctrl flow.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Csharpbascs\age verification and ctrl flow\obj\Debug\age verification and ctrl flow.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Csharpbascs\age verification and ctrl flow\obj\Debug\age verification and ctrl flow.exe
+C:\Users\admin\Desktop\Csharpbascs\age verification and ctrl flow\obj\Debug\age verification and ctrl flow.pdb
