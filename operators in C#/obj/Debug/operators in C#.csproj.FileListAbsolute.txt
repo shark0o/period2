@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\Csharpbascs\operators in C#\bin\Debug\operators in C#.exe.config
+C:\Users\admin\Desktop\Csharpbascs\operators in C#\bin\Debug\operators in C#.exe
+C:\Users\admin\Desktop\Csharpbascs\operators in C#\bin\Debug\operators in C#.pdb
+C:\Users\admin\Desktop\Csharpbascs\operators in C#\obj\Debug\operators in C#.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Csharpbascs\operators in C#\obj\Debug\operators in C#.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Csharpbascs\operators in C#\obj\Debug\operators in C#.exe
+C:\Users\admin\Desktop\Csharpbascs\operators in C#\obj\Debug\operators in C#.pdb
